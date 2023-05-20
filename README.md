@@ -1,5 +1,6 @@
-<h1>Syncrono</h1>
-    <span>Desarrollador: Yovan R. Yaune Enovore</span>
+<h1>Syncrono
+        <span>Desarrollador: Yovan R. Yaune Enovore</span>
+</h1>
 
 <p>Aplicación basada en la técnica del Pomodoro diseñada para ayudarte a mejorar tu productividad y gestionar eficazmente tu tiempo durante las sesiones de trabajo. La aplicación utiliza intervalos de tiempo específicos para dividir tus tareas en períodos de trabajo enfocado, seguidos de breves descansos.</p>
 
