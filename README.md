@@ -44,4 +44,4 @@
   <li>Teléfono: +59173467157</li>
 </ul>
 
-<p>¡Esperamos que Syncrono te ayude a mejorar tu productividad y alcanzar tus objetivos! ¡Disfruta de las sesiones de trabajo y descanso sincronizadas!</p>
+<p>¡Espero que Syncrono te ayude a mejorar tu productividad y alcanzar tus objetivos! ¡Disfruta de las sesiones de trabajo y descanso sincronizadas!</p>
