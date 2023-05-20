@@ -1,6 +1,7 @@
 <h1>Syncrono</h1>
+    <span>Desarrollador: Yovan R. Yaune Enovore</span>
 
-<p>Syncrono es una aplicación basada en la técnica del Pomodoro diseñada para ayudarte a mejorar tu productividad y gestionar eficazmente tu tiempo durante las sesiones de trabajo. La aplicación utiliza intervalos de tiempo específicos para dividir tus tareas en períodos de trabajo enfocado, seguidos de breves descansos.</p>
+<p>Aplicación basada en la técnica del Pomodoro diseñada para ayudarte a mejorar tu productividad y gestionar eficazmente tu tiempo durante las sesiones de trabajo. La aplicación utiliza intervalos de tiempo específicos para dividir tus tareas en períodos de trabajo enfocado, seguidos de breves descansos.</p>
 
 <h2>Funcionalidades principales</h2>
 
@@ -16,7 +17,8 @@
 <ul>
   <li>HTML, CSS y JavaScript: Estas tecnologías se utilizan para la estructura, diseño y funcionalidad de la interfaz de usuario de Syncrono.</li>
   <li>Librerías y frameworks: La aplicación puede hacer uso de librerías y frameworks populares como React, Angular o Vue.js para una mejor organización del código y una experiencia de usuario más fluida.</li>
-  <li>Bases de datos: Para implementar la funcionalidad de la base de datos, Syncrono puede utilizar tecnologías como MySQL, MongoDB o Firebase para almacenar y recuperar datos de manera eficiente.</li>
+  <li>Ba
+    ses de datos: Para implementar la funcionalidad de la base de datos, Syncrono puede utilizar tecnologías como MySQL, MongoDB o Firebase para almacenar y recuperar datos de manera eficiente.</li>
 </ul>
 
 <h2>Instalación y uso</h2>
@@ -35,7 +37,7 @@
 
 <h2>Contacto</h2>
 
-<p>Si tienes alguna pregunta, sugerencia o problema relacionado con Syncrono, no dudes en ponerte en contacto con nosotros:</p>
+<p>Si tienes alguna pregunta, sugerencia o problema relacionado con Syncrono, no dudes en ponerte en contacto con:</p>
 
 <ul>
   <li>Email: <a href="mailto:yovanuxf@gmail.com">yovanuxf@gmail.com</a></li>
