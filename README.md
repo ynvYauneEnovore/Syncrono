@@ -1,4 +1,4 @@
-# <h1>Syncrono</h1>
+<h1>Syncrono</h1>
 
 <p>Syncrono is a Pomodoro-based application designed to help you improve productivity and effectively manage your time during work sessions. The application uses specific time intervals to divide your tasks into periods of focused work, followed by short breaks.</p>
 
