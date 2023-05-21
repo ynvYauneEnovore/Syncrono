@@ -1,7 +1,7 @@
 <h1>Syncrono</h1>
 <h2> <span>Desarrollador: Yovan R. Yaune Enovore</span></h2>
 
-![Logo]([https://github.com/ynvYauneEnovore/hotelSucre/blob/main/img/1.jpeg](https://gith)
+![Logo]([https://github.com/ynvYauneEnovore/hotelSucre/blob/main/img/1.jpeg](https://gith))
 
 <p>Aplicación basada en la técnica del Pomodoro diseñada para ayudarte a mejorar tu productividad y gestionar eficazmente tu tiempo durante las sesiones de trabajo. La aplicación utiliza intervalos de tiempo específicos para dividir tus tareas en períodos de trabajo enfocado, seguidos de breves descansos.</p>
 
