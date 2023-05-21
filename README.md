@@ -39,6 +39,9 @@
 
 <h2>Contacto</h2>
 
+![Logo](https://github.com/ynvYauneEnovore/personal-port/blob/main/public/img/ynv.png)
+
+
 <p>Si tienes alguna pregunta, sugerencia o problema relacionado con Syncrono, no dudes en ponerte en contacto con:</p>
 
 <ul>
